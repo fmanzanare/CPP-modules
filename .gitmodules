@@ -1,0 +1,30 @@
+[submodule "CPP-01"]
+	path = CPP-01
+	url = git@github.com:fmanzanare/CPP-01.git
+[submodule "CPP-00"]
+	path = CPP-00
+	url = git@github.com:fmanzanare/CPP-00.git
+[submodule "CPP-02"]
+	path = CPP-02
+	url = git@github.com:fmanzanare/CPP-02.git
+[submodule "CPP-03"]
+	path = CPP-03
+	url = git@github.com:fmanzanare/CPP-03.git
+[submodule "CPP-04"]
+	path = CPP-04
+	url = git@github.com:fmanzanare/CPP-04.git
+[submodule "CPP-05"]
+	path = CPP-05
+	url = git@github.com:fmanzanare/CPP-05.git
+[submodule "CPP-06"]
+	path = CPP-06
+	url = git@github.com:fmanzanare/CPP-06.git
+[submodule "CPP-07"]
+	path = CPP-07
+	url = git@github.com:fmanzanare/CPP-07.git
+[submodule "CPP-08"]
+	path = CPP-08
+	url = git@github.com:fmanzanare/CPP-08.git
+[submodule "CPP-09"]
+	path = CPP-09
+	url = git@github.com:fmanzanare/CPP-09.git
